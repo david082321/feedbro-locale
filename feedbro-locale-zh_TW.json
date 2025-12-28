@@ -2,8 +2,8 @@
     "meta": {
         "manifest_version": 1,
         "locale_version": "1.4.9",
-        "locale_name": "簡體中文",
-        "locale_type": "zh_CN",
+        "locale_name": "繁體中文",
+        "locale_type": "zh_TW",
         "locale_last_updated": "2024-09-13 17:26:00 UTC",
         "locale_author_name": "2220209876,nkh0472",
         "locale_author_email": "2220209876@msn.com",
